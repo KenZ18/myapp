@@ -3,6 +3,8 @@
 int func1()
 {
   cout << "This is in func1 on integration branch. A real integration branch." <<endl;
-  cout << "This is going to be a problem." << endl;
+  cout << "This is in func1 in developing branch." <<endl;
+  cout << "This is in developing branch 2."<<endl;
+  cout << "This is in func1 a branch for unit test." <<endl;
   return 0;
 }
